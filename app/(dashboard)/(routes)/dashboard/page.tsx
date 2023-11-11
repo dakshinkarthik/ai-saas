@@ -7,7 +7,7 @@ const DashboardPage = () => {
       <p>Dashboard page (Protected)</p>
       <UserButton afterSignOutUrl='/'/>
     </div>
-    )
+    );
 }
 
 export default DashboardPage;
